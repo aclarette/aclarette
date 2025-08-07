@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center" style="color:#B39DDB">💜 Oii! Eu sou a Ana Matias 💻</h1>
 
-<!--
-**aclarette/aclarette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🌸 Estudante apaixonada por tecnologia, café quentinho e música boa 🎶<br>
+🌱 Sempre aprendendo um pouquinho mais sobre programação e inovação!<br>
+💡 Curiosa por natureza e sonhadora por escolha ☁️<br>
+</p>
 
-Here are some ideas to get you started:
+## 💻 Tecnologias que estou explorando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-B39DDB?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9575CD?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-CE93D8?style=flat&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-BA68C8?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-AB47BC?style=flat&logo=github&logoColor=white)
+
+---
+
+## ✨ Um toque de magia:
+
+- 🌈 Acredito no poder da gentileza e da criatividade  
+- 🌟 “Programar é transformar ideias em realidade com linhas de carinho e código”  
+- 💬 Vamos conversar? Me chama ali no [LinkedIn](https://www.linkedin.com) ou manda um oi por email!
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CE93D8&height=100&section=footer"/>
+</p>
+
+<p align="center">
+💫 Obrigada por visitar meu cantinho no GitHub! Tenha um dia doce e inspirador 💜
+</p>
