@@ -1,12 +1,4 @@
-<h1 align="center">Ana Matias</h1>
-
-<p align="center">
-🌸 Estudante apaixonada por tecnologia, café quentinho e música boa 🎶<br>
-🌱 Sempre aprendendo um pouquinho mais sobre programação e inovação!<br>
-💡 Curiosa por natureza e sonhadora por escolha ☁️<br>
-</p>
-
----
+<h1 align="center"> 💜 Ana Matias</h1>
 
 ## 💻 Tecnologias que estou explorando:
 
