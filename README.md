@@ -1,4 +1,4 @@
-<h1 align="center">💜 Oii! Eu sou a Ana Matias 💻</h1>
+<h1 align="center">Ana Matias</h1>
 
 <p align="center">
 🌸 Estudante apaixonada por tecnologia, café quentinho e música boa 🎶<br>
@@ -23,25 +23,8 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ana-matias&show_icons=true&theme=tokyonight&title_color=B39DDB&icon_color=CE93D8&text_color=ffffff&bg_color=00000000" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana-matias&theme=tokyonight&background=00000000&stroke=CE93D8&ring=BA68C8&fire=9575CD&currStreakLabel=AB47BC" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-matias&layout=compact&theme=tokyonight&title_color=CE93D8&text_color=ffffff&bg_color=00000000" width="50%"/>
-</p>
-
----
-
-## ✨ Um toque de magia:
-
-- 🌈 Acredito no poder da gentileza e da criatividade  
-- 🌟 “Programar é transformar ideias em realidade com linhas de carinho e código”  
-- 💬 Vamos conversar? Me chama ali no [LinkedIn](https://www.linkedin.com) ou manda um oi por email!
-
+## 🎀 Sobre mim:
+- 💬 Vamos conversar? Me chama ali no [LinkedIn](https://www.linkedin.com) ou manda um oi por email !
 ---
 
 <p align="center">
