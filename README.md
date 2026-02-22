@@ -1,6 +1,12 @@
-<h1 align="center"> 💜 Ana Matias</h1>
+<h1 align="center"> 💜 Ana Matias </h1>
 
-## 💻 Tecnologias que estou explorando:
+<p align="center">
+  💻 Estudante de TI | 🚀 Em constante evolução | 💜 Apaixonada por tecnologia
+</p>
+
+---
+
+## 💻 Tecnologias que estou explorando
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-B39DDB?style=flat&logo=html5&logoColor=white"/>
@@ -15,14 +21,34 @@
 
 ---
 
-## 🎀 Sobre mim:
-- 💬 Vamos conversar? Me chama ali no [LinkedIn](https://www.linkedin.com) ou manda um oi por email !
+## 📊 Minhas Estatísticas
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=midnight-purple"/>
+</p>
+
+---
+
+## 🎀 Sobre mim
+
+✨ Estudante do 3º ano focada em construir uma base sólida em tecnologia  
+📚 Sempre aprendendo algo novo  
+🎯 Objetivo: crescer profissionalmente na área de TI  
+💜 Disciplina, curiosidade e evolução diária  
+
+---
+
+## 🌎 Conecte-se comigo
+
+<p align="center">
+  <a href="SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-CE93D8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CE93D8&height=100&section=footer"/>
-</p>
-
-<p align="center">
-💫 Obrigada por visitar meu cantinho no GitHub! Tenha um dia doce e inspirador 💜  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CE93D8&height=120&section=footer"/>
 </p>
