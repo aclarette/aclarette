@@ -7,7 +7,7 @@
 ## 🩵 Conecte-se comigo :
 
 <p align="center">
-  <a href="SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/anaclaramatiasvieira/">
     <img src="https://img.shields.io/badge/LinkedIn-9C27B0?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
